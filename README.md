@@ -20,4 +20,4 @@ LAUNCH: `cd server/` & `node index.js`
 "subscriptions-transport-ws": "0.9.12"
 
 
-
+[URLSource](https://blog.theodo.fr/2018/02/real-time-notification-system-graphql-react-apollo/)
